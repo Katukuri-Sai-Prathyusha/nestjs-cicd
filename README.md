@@ -146,8 +146,8 @@ docker logs nestjs-app
 
 ### Jenkins CI/CD Pipeline
 
-![Jenkins Build Success](screenshots/jenkins-success.png)
+![Jenkins Build Success](Screenshots/jenkins-success.png)
 
 ### Application Running on AWS EC2
 
-![NestJS Application](screenshots/app-running.png)
+![NestJS Application](Screenshots/app-running.png)
