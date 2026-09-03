@@ -142,3 +142,12 @@ docker logs nestjs-app
 ## Project Status
 
 **Completed – Automated CI/CD pipeline successfully implemented.**
+## Screenshots
+
+### Jenkins CI/CD Pipeline
+
+![Jenkins Build Success](screenshots/jenkins-success.png)
+
+### Application Running on AWS EC2
+
+![NestJS Application](screenshots/app-running.png)
